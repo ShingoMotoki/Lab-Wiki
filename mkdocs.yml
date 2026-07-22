@@ -1,0 +1,14 @@
+site_name: Motoki Lab Wiki
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+
+  - Getting Started:
+      - Git入門: 01_getting_started/git.md
+      - Linuxコマンド: 01_getting_started/linux.md
+
+  - HPC:
+      - Camphor3 SSH接続: 02_hpc/camphor3_ssh.md
